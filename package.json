@@ -1,0 +1,19 @@
+{
+  "name": "replugged-service",
+  "version": "1.0.0",
+  "description": "A lightweight service for keeping a mod sized hole in your discord client plugged.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lisekilis",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.4",
+    "pkg": "^5.8.1"
+  },
+  "dependencies": {
+    "winston": "^3.17.0"
+  }
+}
